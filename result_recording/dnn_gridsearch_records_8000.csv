@@ -1,0 +1,11 @@
+Accuracy,DNN architecture
+DND2048_relu_2048_relu_DO0.4_E21,0.531
+DND2048_relu_2048_relu_DO0.6_E15,0.48
+DND2048_relu_2048_relu_2048_relu_2048_relu_2048_relu_2048_relu_DO0.6_E14,0.467
+DND1024_relu_1024_relu_1024_relu_1024_relu_DO0.6_E29,0.46
+DND2048_relu_2048_relu_2048_relu_2048_relu_DO0.6_E22,0.448
+DND512_relu_512_relu_512_relu_DO0.4_E37,0.445
+DND512_relu_512_relu_512_relu_DO0.6_E19,0.443
+DND2048_relu_2048_relu_2048_relu_2048_relu_2048_relu_2048_relu_DO0.4_E11,0.429
+DND1024_relu_1024_relu_1024_relu_1024_relu_DO0.4_E32,0.407
+DND2048_relu_2048_relu_2048_relu_2048_relu_DO0.4_E24,0.377

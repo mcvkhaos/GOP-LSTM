@@ -1,0 +1,21 @@
+For Installation and use its recommended you install Anaconda3. https://conda.io/docs/user-guide/install/index.html
+
+Create new Conda environment:
+    conda create --name myenv
+    conda install python (should be python > 3.6)
+
+Using conda install:
+    1. keras-gpu 2.1.5
+    2. -c conda-forge python-levenshtein
+    3. cython, pandas, matplotlib, scikit-learn
+    4. (if not on cluster or do not have a CUDA gpu) tensorflow 1.7.0
+
+Pip install
+    1. python_speech_features 0.5
+    2. textgrid
+
+
+
+
+
+PACKAGE CONFLICT: Keras GPU and configparser, can't use configparser
